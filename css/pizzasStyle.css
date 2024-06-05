@@ -5,6 +5,11 @@
     align-items: center;
     align-content: center;
 }
+.divContenido
+{
+    display: flex;
+    align-items: center;
+}
 .divpizza
 {
     width: 200px;
